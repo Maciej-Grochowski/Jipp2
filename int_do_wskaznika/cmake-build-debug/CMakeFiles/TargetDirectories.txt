@@ -1,0 +1,3 @@
+C:/Users/mghej/Documents/CLionProjects/int_do_wskaznika/cmake-build-debug/CMakeFiles/int_do_wskaznika.dir
+C:/Users/mghej/Documents/CLionProjects/int_do_wskaznika/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mghej/Documents/CLionProjects/int_do_wskaznika/cmake-build-debug/CMakeFiles/rebuild_cache.dir
