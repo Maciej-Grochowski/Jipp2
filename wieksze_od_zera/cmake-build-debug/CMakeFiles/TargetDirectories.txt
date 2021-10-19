@@ -1,0 +1,3 @@
+C:/Users/mghej/Documents/CLionProjects/wieksze_od_zera/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mghej/Documents/CLionProjects/wieksze_od_zera/cmake-build-debug/CMakeFiles/wieksze_od_zera.dir
+C:/Users/mghej/Documents/CLionProjects/wieksze_od_zera/cmake-build-debug/CMakeFiles/rebuild_cache.dir
