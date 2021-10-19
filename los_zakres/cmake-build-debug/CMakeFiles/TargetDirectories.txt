@@ -1,0 +1,3 @@
+C:/Users/mghej/Documents/CLionProjects/los_zakres/cmake-build-debug/CMakeFiles/los_zakres.dir
+C:/Users/mghej/Documents/CLionProjects/los_zakres/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mghej/Documents/CLionProjects/los_zakres/cmake-build-debug/CMakeFiles/rebuild_cache.dir
