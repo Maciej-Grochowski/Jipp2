@@ -1,0 +1,3 @@
+C:/Users/mghej/Documents/CLionProjects/konwersja_tekstu/cmake-build-debug/CMakeFiles/konwersja_tekstu.dir
+C:/Users/mghej/Documents/CLionProjects/konwersja_tekstu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mghej/Documents/CLionProjects/konwersja_tekstu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
