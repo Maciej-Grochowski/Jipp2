@@ -1,0 +1,3 @@
+C:/Users/mghej/Documents/CLionProjects/srednia_z_dwoch_liczb/cmake-build-debug/CMakeFiles/srednia_z_dwoch_liczb.dir
+C:/Users/mghej/Documents/CLionProjects/srednia_z_dwoch_liczb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mghej/Documents/CLionProjects/srednia_z_dwoch_liczb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
