@@ -1,0 +1,3 @@
+C:/Users/mghej/Documents/CLionProjects/sort_rosnaco/cmake-build-debug/CMakeFiles/sort_rosnaco.dir
+C:/Users/mghej/Documents/CLionProjects/sort_rosnaco/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mghej/Documents/CLionProjects/sort_rosnaco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
