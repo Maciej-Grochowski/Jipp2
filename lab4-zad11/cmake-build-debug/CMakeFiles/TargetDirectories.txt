@@ -1,0 +1,3 @@
+C:/Users/mghej/Documents/CLionProjects/lab4-zad11/cmake-build-debug/CMakeFiles/lab4_zad11.dir
+C:/Users/mghej/Documents/CLionProjects/lab4-zad11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mghej/Documents/CLionProjects/lab4-zad11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
