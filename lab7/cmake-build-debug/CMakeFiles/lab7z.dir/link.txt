@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab7z.dir/main.cpp.o CMakeFiles/lab7z.dir/src/Dziedziczenie.cpp.o CMakeFiles/lab7z.dir/src/Polimorfizm.cpp.o  -o lab7z 
